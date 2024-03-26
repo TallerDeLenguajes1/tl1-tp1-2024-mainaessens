@@ -1,1 +1,2 @@
 # tl1-tp1-2024-mainaessens
+El archivo.gitignore es un archivo que le dice a Git qué archivos o carpetas ignorar en un proyecto12. Se suele colocar en el directorio raíz de un proyecto, pero también se puede crear un archivo global.gitignore que se aplique a todos los repositorios de Git1. El archivo.gitignore usa patrones globales para establecer coincidencias con los nombres de los archivos, usando varios símbolos
